@@ -45,10 +45,12 @@ In other words: the effect of having children is expected to be very large, and 
 reduce the chaos in all respects, so in reality the chaos will be even greater.
 
 Other simplifying assumptions are:
-- The birth distribution and the probability of being single do not change over the generations
-- The tendency to a reduced or high birth rate does not pass from the parents to the children
+- The birth distribution and the probability of being single do not change over the generations.
+- The tendency to a reduced or high birth rate does not pass from the parents to the children.
 - The probability of each person being single in the alternate reality (even though they are now married) is the same
   as the average person's probability of being single.
+- We omitted the option for a family with more than 4 children, and the option for a single-parent family. This is 
+  because both of these options greatly complicate the model.
 
 
 Calculate Approximations To Save time:
