@@ -90,11 +90,6 @@ significantly much higher than the true probability, and approximation (1) is ve
 In addition, we calculate the sum of all the probability values that appear in approximation (2) (including those of the
 special values), these are the values that were not lost, and present this sum as the precision.
 
-Besides the truncation, the limitations of the computer also impair accuracy: the calculation performs many
-multiplications of numbers whose absolute value is less than 1. The digital representation cuts digits after the point
-beyond a certain index, and thus after many multiplications too low values are obtained. This deviation must also be
-taken into account.
-
 
 Accuracy issue:
 --------------
